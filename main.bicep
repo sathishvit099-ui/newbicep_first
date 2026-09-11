@@ -50,4 +50,4 @@ module vm './modules/vm.bicep' = {
     location: location
     subnetId: vnet.outputs.subnetId
   }
-}
+
